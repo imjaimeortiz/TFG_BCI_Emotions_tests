@@ -1,4 +1,0 @@
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-2,1,-,-,-,Random Forest,0.7393973214285714
-1,1,-,-,-,SVM,0.5614769345238095
-1,1,-,-,-,kNN,0.7883029513888888

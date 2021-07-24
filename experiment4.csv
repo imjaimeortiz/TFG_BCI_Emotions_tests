@@ -4,31 +4,6 @@ Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classi
 1,4,STFT,All bands,Own,Random Forest,0.89453125
 1,4,STFT,All bands,Own,SVM,0.85546875
 Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-24,4,STFT,All bands,Literature,Random Forest,0.765625
-24,4,STFT,All bands,Literature,SVM,0.69921875
-24,4,STFT,All bands,Own,Random Forest,0.7890625
-24,4,STFT,All bands,Own,SVM,0.916015625
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-13,4,STFT,All bands,Literature,Random Forest,0.76953125
-13,4,STFT,All bands,Literature,SVM,0.6796875
-13,4,STFT,All bands,Own,Random Forest,0.916015625
-13,4,STFT,All bands,Own,SVM,0.9609375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-12,4,STFT,All bands,Literature,Random Forest,0.8515625
-12,4,STFT,All bands,Literature,SVM,0.72265625
-12,4,STFT,All bands,Own,Random Forest,0.951171875
-12,4,STFT,All bands,Own,SVM,0.900390625
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-11,4,STFT,All bands,Literature,Random Forest,0.72265625
-11,4,STFT,All bands,Literature,SVM,0.650390625
-11,4,STFT,All bands,Own,Random Forest,0.72265625
-11,4,STFT,All bands,Own,SVM,0.7109375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-11,4,STFT,All bands,Literature,Random Forest,0.72265625
-11,4,STFT,All bands,Literature,SVM,0.673828125
-11,4,STFT,All bands,Own,Random Forest,0.72265625
-11,4,STFT,All bands,Own,SVM,0.833984375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
 1,4,STFT,All bands,Literature,Random Forest,0.91015625
 1,4,STFT,All bands,Literature,SVM,0.71875
 1,4,STFT,All bands,Own,Random Forest,0.89453125
@@ -36,47 +11,27 @@ Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classi
 Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
 1,4,STFT,All bands,Literature,Random Forest,0.91015625
 1,4,STFT,All bands,Literature,SVM,0.71875
-1,4,STFT,All bands,Own,Random Forest,0.89453125
+1,4,STFT,All bands,Own,Random Forest,0.896484375
+1,4,STFT,All bands,Own,SVM,0.85546875
+Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
+1,4,STFT,All bands,Literature,Random Forest,0.91015625
+1,4,STFT,All bands,Literature,SVM,0.71875
+1,4,STFT,All bands,Own,Random Forest,0.880859375
+1,4,STFT,All bands,Own,SVM,0.85546875
+Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
+1,4,STFT,All bands,Literature,Random Forest,0.91015625
+1,4,STFT,All bands,Literature,SVM,0.71875
+1,4,STFT,All bands,Own,Random Forest,0.880859375
+1,4,STFT,All bands,Own,SVM,0.85546875
+Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
+1,4,STFT,All bands,Literature,Random Forest,0.91015625
+1,4,STFT,All bands,Literature,SVM,0.71875
+1,4,STFT,All bands,Own,Random Forest,0.888671875
 1,4,STFT,All bands,Own,SVM,0.85546875
 Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
 1,4,STFT,All bands,Literature,Random Forest,0.91015625
 1,4,STFT,All bands,Literature,SVM,0.71875
 1,4,STFT,All bands,Own,Random Forest,0.89453125
-1,4,STFT,All bands,Own,SVM,0.85546875
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-13,4,STFT,All bands,Literature,Random Forest,0.76953125
-13,4,STFT,All bands,Literature,SVM,0.669921875
-13,4,STFT,All bands,Own,Random Forest,0.916015625
-13,4,STFT,All bands,Own,SVM,0.9609375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-13,4,STFT,All bands,Literature,Random Forest,0.76953125
-13,4,STFT,All bands,Literature,SVM,0.6875
-13,4,STFT,All bands,Own,Random Forest,0.916015625
-13,4,STFT,All bands,Own,SVM,0.9609375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-13,4,STFT,All bands,Literature,Random Forest,0.76953125
-13,4,STFT,All bands,Literature,SVM,0.669921875
-13,4,STFT,All bands,Own,Random Forest,0.904296875
-13,4,STFT,All bands,Own,SVM,0.9609375
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-1,4,STFT,All bands,Literature,Random Forest,0.91015625
-1,4,STFT,All bands,Literature,SVM,0.71875
-1,4,STFT,All bands,Own,Random Forest,0.89453125
-1,4,STFT,All bands,Own,SVM,0.85546875
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-1,4,STFT,All bands,Literature,Random Forest,0.91015625
-1,4,STFT,All bands,Literature,SVM,0.71875
-1,4,STFT,All bands,Own,Random Forest,0.89453125
-1,4,STFT,All bands,Own,SVM,0.85546875
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-1,4,STFT,All bands,Literature,Random Forest,0.91015625
-1,4,STFT,All bands,Literature,SVM,0.71875
-1,4,STFT,All bands,Own,Random Forest,0.828125
-1,4,STFT,All bands,Own,SVM,0.85546875
-Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-1,4,STFT,All bands,Literature,Random Forest,0.91015625
-1,4,STFT,All bands,Literature,SVM,0.71875
-1,4,STFT,All bands,Own,Random Forest,0.91015625
 1,4,STFT,All bands,Own,SVM,0.85546875
 Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
 1,4,STFT,All bands,Literature,Random Forest,0.91015625

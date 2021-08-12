@@ -1,97 +1,129 @@
 Subject,Experiment ID,Feature extraction,Band selection,Channel selection,Classification algorithm,Accuracy
-1,7,STFT,All bands,-,Random Forest,0.740234375
-1,7,STFT,All bands,-,SVM,0.939453125
-1,7,STFT,All bands,-,kNN,0.93359375
-2,7,STFT,All bands,-,Random Forest,0.51953125
-2,7,STFT,All bands,-,SVM,0.904296875
-2,7,STFT,All bands,-,kNN,0.912109375
-3,7,STFT,All bands,-,Random Forest,0.703125
-3,7,STFT,All bands,-,SVM,0.939453125
-3,7,STFT,All bands,-,kNN,0.943359375
-4,7,STFT,All bands,-,Random Forest,0.560546875
-4,7,STFT,All bands,-,SVM,0.69921875
-4,7,STFT,All bands,-,kNN,0.892578125
-5,7,STFT,All bands,-,Random Forest,0.56640625
-5,7,STFT,All bands,-,SVM,0.908203125
-5,7,STFT,All bands,-,kNN,0.91015625
-6,7,STFT,All bands,-,Random Forest,0.662109375
-6,7,STFT,All bands,-,SVM,0.912109375
-6,7,STFT,All bands,-,kNN,0.91015625
-7,7,STFT,All bands,-,Random Forest,0.60546875
-7,7,STFT,All bands,-,SVM,0.90625
-7,7,STFT,All bands,-,kNN,0.90234375
-8,7,STFT,All bands,-,Random Forest,0.63671875
-8,7,STFT,All bands,-,SVM,0.875
-8,7,STFT,All bands,-,kNN,0.90234375
-9,7,STFT,All bands,-,Random Forest,0.630859375
-9,7,STFT,All bands,-,SVM,0.896484375
-9,7,STFT,All bands,-,kNN,0.89453125
-10,7,STFT,All bands,-,Random Forest,0.708984375
-10,7,STFT,All bands,-,SVM,0.896484375
-10,7,STFT,All bands,-,kNN,0.904296875
-11,7,STFT,All bands,-,Random Forest,0.515625
-11,7,STFT,All bands,-,SVM,0.779296875
-11,7,STFT,All bands,-,kNN,0.89453125
-12,7,STFT,All bands,-,Random Forest,0.7890625
-12,7,STFT,All bands,-,SVM,0.9453125
-12,7,STFT,All bands,-,kNN,0.947265625
-13,7,STFT,All bands,-,Random Forest,0.736328125
-13,7,STFT,All bands,-,SVM,0.93359375
-13,7,STFT,All bands,-,kNN,0.904296875
-14,7,STFT,All bands,-,Random Forest,0.6953125
-14,7,STFT,All bands,-,SVM,0.916015625
-14,7,STFT,All bands,-,kNN,0.931640625
-15,7,STFT,All bands,-,Random Forest,0.71875
-15,7,STFT,All bands,-,SVM,0.9375
-15,7,STFT,All bands,-,kNN,0.923828125
-16,7,STFT,All bands,-,Random Forest,0.8125
-16,7,STFT,All bands,-,SVM,0.892578125
-16,7,STFT,All bands,-,kNN,0.880859375
-17,7,STFT,All bands,-,Random Forest,0.634765625
-17,7,STFT,All bands,-,SVM,0.908203125
-17,7,STFT,All bands,-,kNN,0.9375
-18,7,STFT,All bands,-,Random Forest,0.654296875
-18,7,STFT,All bands,-,SVM,0.90625
-18,7,STFT,All bands,-,kNN,0.876953125
-19,7,STFT,All bands,-,Random Forest,0.619140625
-19,7,STFT,All bands,-,SVM,0.951171875
-19,7,STFT,All bands,-,kNN,0.939453125
-20,7,STFT,All bands,-,Random Forest,0.814453125
-20,7,STFT,All bands,-,SVM,0.951171875
-20,7,STFT,All bands,-,kNN,0.9453125
-21,7,STFT,All bands,-,Random Forest,0.689453125
-21,7,STFT,All bands,-,SVM,0.892578125
-21,7,STFT,All bands,-,kNN,0.908203125
-22,7,STFT,All bands,-,Random Forest,0.650390625
-22,7,STFT,All bands,-,SVM,0.654296875
-22,7,STFT,All bands,-,kNN,0.90625
-23,7,STFT,All bands,-,Random Forest,0.822265625
-23,7,STFT,All bands,-,SVM,0.892578125
-23,7,STFT,All bands,-,kNN,0.89453125
-24,7,STFT,All bands,-,Random Forest,0.748046875
-24,7,STFT,All bands,-,SVM,0.91015625
-24,7,STFT,All bands,-,kNN,0.927734375
-25,7,STFT,All bands,-,Random Forest,0.701171875
-25,7,STFT,All bands,-,SVM,0.919921875
-25,7,STFT,All bands,-,kNN,0.9296875
-26,7,STFT,All bands,-,Random Forest,0.79296875
-26,7,STFT,All bands,-,SVM,0.908203125
-26,7,STFT,All bands,-,kNN,0.90625
-27,7,STFT,All bands,-,Random Forest,0.654296875
-27,7,STFT,All bands,-,SVM,0.935546875
-27,7,STFT,All bands,-,kNN,0.912109375
-28,7,STFT,All bands,-,Random Forest,0.619140625
-28,7,STFT,All bands,-,SVM,0.921875
-28,7,STFT,All bands,-,kNN,0.91796875
-29,7,STFT,All bands,-,Random Forest,0.689453125
-29,7,STFT,All bands,-,SVM,0.955078125
-29,7,STFT,All bands,-,kNN,0.923828125
-30,7,STFT,All bands,-,Random Forest,0.6171875
-30,7,STFT,All bands,-,SVM,0.919921875
-30,7,STFT,All bands,-,kNN,0.9140625
-31,7,STFT,All bands,-,Random Forest,0.787109375
-31,7,STFT,All bands,-,SVM,0.931640625
-31,7,STFT,All bands,-,kNN,0.9375
-32,7,STFT,All bands,-,Random Forest,0.771484375
-32,7,STFT,All bands,-,SVM,0.888671875
-32,7,STFT,All bands,-,kNN,0.908203125
+1,8,STFT,All bands,Literature,Random Forest,0.63671875
+1,8,STFT,All bands,Literature,SVM,0.5234375
+1,8,STFT,All bands,Own,Random Forest,0.703125
+1,8,STFT,All bands,Own,SVM,0.791015625
+2,8,STFT,All bands,Literature,Random Forest,0.51953125
+2,8,STFT,All bands,Literature,SVM,0.619140625
+2,8,STFT,All bands,Own,Random Forest,0.51953125
+2,8,STFT,All bands,Own,SVM,0.7578125
+3,8,STFT,All bands,Literature,Random Forest,0.666015625
+3,8,STFT,All bands,Literature,SVM,0.650390625
+3,8,STFT,All bands,Own,Random Forest,0.740234375
+3,8,STFT,All bands,Own,SVM,0.876953125
+4,8,STFT,All bands,Literature,Random Forest,0.5625
+4,8,STFT,All bands,Literature,SVM,0.447265625
+4,8,STFT,All bands,Own,Random Forest,0.55078125
+4,8,STFT,All bands,Own,SVM,0.677734375
+5,8,STFT,All bands,Literature,Random Forest,0.53125
+5,8,STFT,All bands,Literature,SVM,0.544921875
+5,8,STFT,All bands,Own,Random Forest,0.56640625
+5,8,STFT,All bands,Own,SVM,0.759765625
+6,8,STFT,All bands,Literature,Random Forest,0.63671875
+6,8,STFT,All bands,Literature,SVM,0.58984375
+6,8,STFT,All bands,Own,Random Forest,0.65234375
+6,8,STFT,All bands,Own,SVM,0.87109375
+7,8,STFT,All bands,Literature,Random Forest,0.564453125
+7,8,STFT,All bands,Literature,SVM,0.666015625
+7,8,STFT,All bands,Own,Random Forest,0.62890625
+7,8,STFT,All bands,Own,SVM,0.794921875
+8,8,STFT,All bands,Literature,Random Forest,0.587890625
+8,8,STFT,All bands,Literature,SVM,0.556640625
+8,8,STFT,All bands,Own,Random Forest,0.666015625
+8,8,STFT,All bands,Own,SVM,0.78515625
+9,8,STFT,All bands,Literature,Random Forest,0.603515625
+9,8,STFT,All bands,Literature,SVM,0.583984375
+9,8,STFT,All bands,Own,Random Forest,0.658203125
+9,8,STFT,All bands,Own,SVM,0.70703125
+10,8,STFT,All bands,Literature,Random Forest,0.64453125
+10,8,STFT,All bands,Literature,SVM,0.544921875
+10,8,STFT,All bands,Own,Random Forest,0.619140625
+10,8,STFT,All bands,Own,SVM,0.837890625
+11,8,STFT,All bands,Literature,Random Forest,0.53515625
+11,8,STFT,All bands,Literature,SVM,0.4765625
+11,8,STFT,All bands,Own,Random Forest,0.544921875
+11,8,STFT,All bands,Own,SVM,0.69140625
+12,8,STFT,All bands,Literature,Random Forest,0.775390625
+12,8,STFT,All bands,Literature,SVM,0.69921875
+12,8,STFT,All bands,Own,Random Forest,0.759765625
+12,8,STFT,All bands,Own,SVM,0.822265625
+13,8,STFT,All bands,Literature,Random Forest,0.68359375
+13,8,STFT,All bands,Literature,SVM,0.662109375
+13,8,STFT,All bands,Own,Random Forest,0.681640625
+13,8,STFT,All bands,Own,SVM,0.76953125
+14,8,STFT,All bands,Literature,Random Forest,0.60546875
+14,8,STFT,All bands,Literature,SVM,0.6796875
+14,8,STFT,All bands,Own,Random Forest,0.6953125
+14,8,STFT,All bands,Own,SVM,0.83984375
+15,8,STFT,All bands,Literature,Random Forest,0.716796875
+15,8,STFT,All bands,Literature,SVM,0.515625
+15,8,STFT,All bands,Own,Random Forest,0.71875
+15,8,STFT,All bands,Own,SVM,0.919921875
+16,8,STFT,All bands,Literature,Random Forest,0.666015625
+16,8,STFT,All bands,Literature,SVM,0.505859375
+16,8,STFT,All bands,Own,Random Forest,0.75390625
+16,8,STFT,All bands,Own,SVM,0.859375
+17,8,STFT,All bands,Literature,Random Forest,0.56640625
+17,8,STFT,All bands,Literature,SVM,0.5859375
+17,8,STFT,All bands,Own,Random Forest,0.685546875
+17,8,STFT,All bands,Own,SVM,0.82421875
+18,8,STFT,All bands,Literature,Random Forest,0.53515625
+18,8,STFT,All bands,Literature,SVM,0.66015625
+18,8,STFT,All bands,Own,Random Forest,0.66015625
+18,8,STFT,All bands,Own,SVM,0.90625
+19,8,STFT,All bands,Literature,Random Forest,0.62890625
+19,8,STFT,All bands,Literature,SVM,0.580078125
+19,8,STFT,All bands,Own,Random Forest,0.599609375
+19,8,STFT,All bands,Own,SVM,0.798828125
+20,8,STFT,All bands,Literature,Random Forest,0.724609375
+20,8,STFT,All bands,Literature,SVM,0.6875
+20,8,STFT,All bands,Own,Random Forest,0.8359375
+20,8,STFT,All bands,Own,SVM,0.853515625
+21,8,STFT,All bands,Literature,Random Forest,0.677734375
+21,8,STFT,All bands,Literature,SVM,0.609375
+21,8,STFT,All bands,Own,Random Forest,0.6875
+21,8,STFT,All bands,Own,SVM,0.7265625
+22,8,STFT,All bands,Literature,Random Forest,0.658203125
+22,8,STFT,All bands,Literature,SVM,0.546875
+22,8,STFT,All bands,Own,Random Forest,0.634765625
+22,8,STFT,All bands,Own,SVM,0.689453125
+23,8,STFT,All bands,Literature,Random Forest,0.775390625
+23,8,STFT,All bands,Literature,SVM,0.611328125
+23,8,STFT,All bands,Own,Random Forest,0.8125
+23,8,STFT,All bands,Own,SVM,0.80859375
+24,8,STFT,All bands,Literature,Random Forest,0.72265625
+24,8,STFT,All bands,Literature,SVM,0.64453125
+24,8,STFT,All bands,Own,Random Forest,0.7109375
+24,8,STFT,All bands,Own,SVM,0.8203125
+25,8,STFT,All bands,Literature,Random Forest,0.654296875
+25,8,STFT,All bands,Literature,SVM,0.61328125
+25,8,STFT,All bands,Own,Random Forest,0.65625
+25,8,STFT,All bands,Own,SVM,0.796875
+26,8,STFT,All bands,Literature,Random Forest,0.68359375
+26,8,STFT,All bands,Literature,SVM,0.5859375
+26,8,STFT,All bands,Own,Random Forest,0.751953125
+26,8,STFT,All bands,Own,SVM,0.806640625
+27,8,STFT,All bands,Literature,Random Forest,0.626953125
+27,8,STFT,All bands,Literature,SVM,0.59765625
+27,8,STFT,All bands,Own,Random Forest,0.728515625
+27,8,STFT,All bands,Own,SVM,0.935546875
+28,8,STFT,All bands,Literature,Random Forest,0.595703125
+28,8,STFT,All bands,Literature,SVM,0.580078125
+28,8,STFT,All bands,Own,Random Forest,0.578125
+28,8,STFT,All bands,Own,SVM,0.8671875
+29,8,STFT,All bands,Literature,Random Forest,0.546875
+29,8,STFT,All bands,Literature,SVM,0.603515625
+29,8,STFT,All bands,Own,Random Forest,0.751953125
+29,8,STFT,All bands,Own,SVM,0.939453125
+30,8,STFT,All bands,Literature,Random Forest,0.611328125
+30,8,STFT,All bands,Literature,SVM,0.6171875
+30,8,STFT,All bands,Own,Random Forest,0.685546875
+30,8,STFT,All bands,Own,SVM,0.83984375
+31,8,STFT,All bands,Literature,Random Forest,0.75
+31,8,STFT,All bands,Literature,SVM,0.62890625
+31,8,STFT,All bands,Own,Random Forest,0.75
+31,8,STFT,All bands,Own,SVM,0.822265625
+32,8,STFT,All bands,Literature,Random Forest,0.677734375
+32,8,STFT,All bands,Literature,SVM,0.703125
+32,8,STFT,All bands,Own,Random Forest,0.716796875
+32,8,STFT,All bands,Own,SVM,0.78125

@@ -1,0 +1,10 @@
+max_depth,C,kernel,n_neighbors
+10,25.0,rbf,15
+max_depth,C,kernel,n_neighbors
+10,25.0,rbf,15
+max_depth,C,kernel,n_neighbors
+10,25.0,rbf,13
+max_depth,C,kernel,n_neighbors
+12,5.0,rbf,15
+max_depth,C,kernel,n_neighbors
+10,5.0,rbf,12

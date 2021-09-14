@@ -1,0 +1,14 @@
+Los ficheros sobre los que se trabaja se corresponden con la base de datos DEAP : http://www.eecs.qmul.ac.uk/mmv/datasets/deap/
+Para descargarlos, tenemos acceso mediante la siguiente cuenta y contraseña: mario.quilesp@um.es / sgCU5zgz
+Recalcar que trabajamos sobre los ficheros preprocesados, por lo que son estos .dat los que se deben descargar.
+
+Experimento 1 : Datos sin procesar.
+Experimento 2 : Datos con extracción de características y separación en bandas de frecuencia. Clasificación binaria.
+Experimento 3 : Datos con extracción de características y unión de características de las bandas. Clasificación binaria.
+Experimento 4 : Datos con extracción de características y selección de canales. Clasificación cuaternaria.
+Experimento 5 : Datos con extracción de características y separación en bandas de frecuencia. Clasificación cuaternaria.
+Experimento 6 : Datos con extracción de características y unión de características de las bandas. Clasificación cuaternaria.
+Experimento 7 : Datos con extracción de características y selección de canales. Clasificación cuaternaria.
+
+Para ejecutar, hay que poner en la variable "f" el nombre del fichero que contiene los datos de 1 sujeto y en la variable "subject_id", el identificador. De este modo, la visualización en el .csv generado es más sencilla.
+Por ejemplo, el fichero s01.dat, tendrá como identificador del sujeto el 1.
